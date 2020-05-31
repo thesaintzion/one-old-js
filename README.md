@@ -1,8 +1,6 @@
 # angularjs-todo-app
 This project is todo list project based on AngularJs (1.6.9), Bootstrap (4), Codeigniter (3).
 
-# Demo - http://harendra.online/todo
-
 # Installation Process :
 
 1. Clone the project to your local server directories such as htdocs (if using xampp) or www (if using wamp) from GitHub by running the following command — “git clone https://github.com/harendra21/angularjs-todo-app”
